@@ -2,6 +2,7 @@
   {
     "id": 0,
     "title": "elegance",
+    "summary": "It is a long established fact that a reader will be distracted",
     "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
     "date": 20250228,
     "likeIt": 25
@@ -9,6 +10,7 @@
   {
     "id": 1,
     "title": "VividHorizon",
+    "summary": "Contrary to popular belief",
     "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC.",
     "date": 20250310,
     "likeIt": 42
@@ -16,6 +18,7 @@
   {
     "id": 2,
     "title": "QuantumLeap",
+    "summary": "There are many variations of passages of Lorem Ipsum available",
     "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
     "date": 20250401,
     "likeIt": 18
@@ -23,6 +26,7 @@
   {
     "id": 3,
     "title": "MysticRiver",
+    "summary": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested",
     "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
     "date": 20250415,
     "likeIt": 55
@@ -30,6 +34,7 @@
   {
     "id": 4,
     "title": "SilentEcho",
+    "summary": "But I must explain to you how all this mistaken idea of denouncing pleasure",
     "content": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
     "date": 20250505,
     "likeIt": 31
@@ -37,6 +42,7 @@
   {
     "id": 5,
     "title": "CelestialFire",
+    "summary": "At vero eos et accusamus et",
     "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
     "date": 20250520,
     "likeIt": 67
@@ -44,6 +50,7 @@
   {
     "id": 6,
     "title": "GoldenRatio",
+    "summary": "Et harum quidem rerum facilis est et expedita distinctio",
     "content": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
     "date": 20250601,
     "likeIt": 14
@@ -51,6 +58,7 @@
   {
     "id": 7,
     "title": "CrystalMaze",
+    "summary": "Itaque earum rerum hic tenetur",
     "content": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
     "date": 20250615,
     "likeIt": 78
@@ -58,6 +66,7 @@
   {
     "id": 8,
     "title": "InfiniteLoop",
+    "summary": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
     "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
     "date": 20250701,
     "likeIt": 29
@@ -65,6 +74,7 @@
   {
     "id": 9,
     "title": "ShadowDance",
+    "summary": "Quis autem vel eum iure reprehenderit",
     "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "date": 20250715,
     "likeIt": 88
@@ -72,6 +82,7 @@
   {
     "id": 10,
     "title": "VortexFlow",
+    "summary": "Sed ut perspiciatis unde omnis iste natus error sit",
     "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
     "date": 20250801,
     "likeIt": 37
@@ -79,6 +90,7 @@
   {
     "id": 11,
     "title": "ZenithPoint",
+    "summary": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
     "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.",
     "date": 20250815,
     "likeIt": 51
